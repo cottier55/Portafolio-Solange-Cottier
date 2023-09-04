@@ -5,7 +5,7 @@ export const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer__container container">
-        <h1 className="footer__title">Julian Giraldo</h1>
+        <h1 className="footer__title">Solange Cottier</h1>
 
         <ul className="footer__list">
           <li>
@@ -51,7 +51,7 @@ export const Footer = () => {
           </a>
         </div>
 
-        <span className="footer__copy"> &#169; JulianGiraldoCoder. All rigths reserved</span>
+        <span className="footer__copy"> &#169; SolangeLilianaCottier. All rigths reserved</span>
       </div>
     </footer>
   );

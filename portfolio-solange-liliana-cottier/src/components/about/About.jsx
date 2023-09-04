@@ -1,8 +1,8 @@
 import React from "react";
 import "./about.css";
-import AboutImg from "../../assets/Perfil foto.png";
+import AboutImg from "../../assets/Solange Cottier.png";
 import CV from "../../assets/Solange-Cv.pdf";
-import Info from "./Info";
+
 
 const About = () => {
     return (
@@ -15,7 +15,7 @@ const About = () => {
                 <img src={AboutImg} alt="" className="about__img" />  
 
                 <div className="about__data">
-                    <Info/>
+                    
 
                     <p className="about__description">
                         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quisquam, magni! Non officiis quidem eaque libero enim vero id similique rerum sed? Itaque quaerat voluptatum numquam, eum officiis nam repellat nulla!
