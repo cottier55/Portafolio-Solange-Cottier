@@ -47,37 +47,6 @@
     margin-bottom: var(--mb-2);
 }
 
-.footer__link:hover {
-    color:rgb(108, 102, 102);
-}
-
-.footer__list {
-    display: flex;
-    justify-content: center;
-    column-gap: 1.5rem;
-    margin-bottom: var(--mb-2);
-}
-
-.footer__social {
-    display: flex;
-    justify-content: center;
-    column-gap: 1.3rem;
-}
-
-.footer__social-link {
-    background-color: rgb(47, 44, 44);
-    
-    color: #fff;
-    font-size: 1.125rem;
-    padding: 0.5rem;
-    border-radius: 0.5rem;
-    display:inline-flex;
-}
-
-.footer__social-link:hover {
-    background-color: rgb(108, 102, 102);
-
-}
 
 .footer__copy {
     display: block;
@@ -87,34 +56,3 @@
     font-size: var(--smaller-font-size);
 }
 
-/*=======BREAKPOINT=====*/
-
-/*=======FOR LARGE DEVICES=====*/
-
-@media screen and (max-width: 992px){
-    .footer__social-link {
-        padding: 0.25rem;
-        border-radius: 0.25rem;
-        font-size: 1rem;
-    
-    }
-    
-    
-  
-  }
-  
-  /*=======for medium devices=====*/
-  
-  @media screen and (max-width: 768px){
-   
-  
-    
-  }
-  
-  /*=======for small devices=====*/
-  @media screen and (max-width: 350px){
-   
-  
-  }
-  
-  

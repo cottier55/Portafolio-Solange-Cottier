@@ -8,9 +8,6 @@ const Data = () => {
       
       </h1>
       <h3 className="home__subtitle">Full Stack Developer</h3>
-      <p className="home__description">
-        Soy desarrollodara Full Stack con mas de 3 años de experiencia diseñando, desarrollando y construyendo de manera personal paginas web, manejo diferentes lenguajes de programacion y frameworks para la elaboracion de dichas paginas. Todo mi conocimiento lo he obteniendo de manera autodidacta y de forma personal
-      </p>
 
       <a href="#contact" className="button button--flex">
         Contactame
